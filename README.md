@@ -8,3 +8,6 @@ It *should* be safe to use, but I'm just warning you.
 
 Simply open the program and enter your discord token, and it will output a txt file to the directory with a list of server invites.
 It will create each one automatically and set it to be a permanant invite.
+
+
+Thanks to Goat#8814 for the idea to make this.
